@@ -7,5 +7,5 @@
 ![](https://steam-current-game.vercel.app/api/?steamids=76561199258895315)
 
 Might make this more fancy soon... once I figure things out .
->>> (02/17/26) : Updating this today!
+>>> (okay idk when ill do it but soon)
 
