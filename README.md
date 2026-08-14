@@ -18,12 +18,7 @@
 <p align="center">
     <img width="150" src="https://file.garden/ZmtEuA_82UkbgtiL/blinkiesCafe-Fk.gif" alt="">
 </p>
-<p align="center">
-    <img width="90" src="https://file.garden/ZmtEuA_82UkbgtiL/d19.png" alt="" style="float:right"><img width="90" src="https://file.garden/ZmtEuA_82UkbgtiL/d20.png" alt="" style="float:left">
-<p align="center">
-    <img width="80" src="https://file.garden/ZmtEuA_82UkbgtiL/b1.png" alt="">
-</p>
-</p>
+
 <p align="center">
     <img width="500" src="https://files.catbox.moe/h8tta4.png" alt=":3">
 </p>
