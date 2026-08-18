@@ -9,7 +9,7 @@
 
                                                                                  ![](https://komarev.com/ghpvc/?username=paIadinstrait&label=++++(✿◠‿◠)+++++&color=ff0090)
 
-<p style="font-family:helvetica" align="center"> <strong> hello! i'm nocturne <br> </strong> but i also go by blake around my awesome friends :] <br>
+<p style="font-family:helvetica" align="center"> <strong> hello! i'm nocturne <br> </strong> but i also go by blake around my awesome friends :] <br> pt hall of media's boomie (mcyt) & wheatley! (p2) and navigating by twenty one pilots :D <br> 
 		    <a href="https://toyhou.se/digi7alspecter/characters">my ocs</a> <a href="https://amaritemasquerade.atabook.org">atabook</a> </p> 
 	
 <p align="center">
