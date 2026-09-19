@@ -4,7 +4,7 @@
 
                                                                                  ![](https://komarev.com/ghpvc/?username=paIadinstrait&label=++++VISITS+++++&color=d12313)
 
-<p style="font-family:helvetica" align="center"> <strong> Hello, I'm Crowley <br> </strong> I also go by Nocturne or Blake around my friends. <br> 
+<p style="font-family:helvetica" align="center"> <strong> Hello, I'm Crowley. <br> </strong> I also go by Nocturne or Blake around my friends. <br> 
 		    <a href="https://toyhou.se/digi7alspecter/characters">my ocs</a> <a href="https://riftkeeper.atabook.org/">atabook</a> </p> 
 	
 <p align="center">
