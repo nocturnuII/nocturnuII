@@ -1,13 +1,8 @@
 
 
-<p align="center">
-    <img width="500" src="https://files.catbox.moe/u1vs43.png" alt=":3">
-</p>
 
 
-
-
-                                                                                 ![](https://komarev.com/ghpvc/?username=paIadinstrait&label=++++(✿◠‿◠)+++++&color=ff0090)
+                                                                                 ![](https://komarev.com/ghpvc/?username=paIadinstrait&label=++++VISITS+++++&color=d12313)
 
 <p style="font-family:helvetica" align="center"> <strong> Hello, I'm Crowley <br> </strong> I also go by Nocturne or Blake around my friends. <br> 
 		    <a href="https://toyhou.se/digi7alspecter/characters">my ocs</a> <a href="https://riftkeeper.atabook.org/">atabook</a> </p> 
@@ -19,10 +14,6 @@
     <img width="150" src="https://file.garden/ZmtEuA_82UkbgtiL/blinkiesCafe-Fk.gif" alt="">
 </p>
 
-<p align="center">
-    <img width="500" src="https://files.catbox.moe/h8tta4.png" alt=":3">
-</p>
-		
 <p align="center">
 
 
