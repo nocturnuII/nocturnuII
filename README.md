@@ -2,7 +2,7 @@
 
 
 
-                                                                                 ![](https://komarev.com/ghpvc/?username=paIadinstrait&label=++VISITS++&color=d12313)
+                                                                                 ![](https://komarev.com/ghpvc/?username=paIadinstrait&label=++WATCHERS++&color=b104e0)
 
 <p style="font-family:helvetica" align="center">hello  !  i'm  nocturne  ,  i  also  go  by  hysteria<br> 
 		    feel free to c + h at any point unless i am with <strong>friends</strong> :D</p> 
