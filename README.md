@@ -4,14 +4,11 @@
 
                                                                                  ![](https://komarev.com/ghpvc/?username=paIadinstrait&label=++VISITS++&color=d12313)
 
-<p style="font-family:helvetica" align="center"> <strong> Hello, I'm Crowley. <br> </strong> I also go by Nocturne or Hysteria around my friends. <br> 
-		    <a href="https://toyhou.se/digi7alspecter/characters">my ocs</a> <a href="https://riftkeeper.atabook.org/">atabook</a> </p> 
+<p style="font-family:helvetica" align="center"> <strong>hello! i'm nocturne , i also go by hysteria<br> 
+		    feel free to c + h at any point unless i am with <strong>friends</strong> :D</p> 
 	
 <p align="center">
     <img width="150" src="https://file.garden/ZmtEuA_82UkbgtiL/blinkiesCafe-wu.gif" alt="">
-</p>
-<p align="center">
-    <img width="150" src="https://file.garden/ZmtEuA_82UkbgtiL/blinkiesCafe-Fk.gif" alt="">
 </p>
 
 <p align="center">
