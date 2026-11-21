@@ -16,17 +16,18 @@
     <tr align="center"></tr>
       <th>
            <br>  
-          <img src="glup" alt="glup" height="150px" title="glup" >
+          <img src="glup" alt="glup" height="400px" title="glup" >
 <br>
                    <br>  
              <br>
 
              
-$\color{#FF0000}{\textsf{hello, i'm nocturne or hysteria}$<br>
-$\color{#}{\textsf{he / any / ask . . i don't really care about my pronouns tbh}$ <br>
-$\color{#}{\textsf{aroace & nb  ;  demiromantic & asexual}}$<br>
-$\color{#}{\textsf{I’m always super friendly, so feel free to interact with me!}}$<br>
-$\color{#}{\textsf{I hang out around docks, but usually afk!}}$<br> 
+$\color{#edddff}{\textsf{hello, i'm nocturne or hysteria}}$<br>
+$\color{#fcf9ff}{\textsf{he / any / ask . . i don't really care about my pronouns tbh}}$ <br>
+$\color{#edddff}{\textsf{aroace + nb  ;  demiromantic + asexual}}$<br>
+$\color{#fcf9ff}{\textsf{i am mostly offtab, but you're free to c+h with me, even if i'm on dni}}$<br>
+$\color{#edddff}{\textsf{i can be found at the hermit hill, caves or docks.}}$<br>
+$\color{#fcf9ff}{\textsf{if i'm not in any of these locations, i am most likely not home or attending a regiment event}}$<br> 
 <br>
   <br>
   
@@ -37,4 +38,4 @@ $\color{#}{\textsf{I hang out around docks, but usually afk!}}$<br>
 
 
 
-  <img align="center" src="booger" width="180px">
+
